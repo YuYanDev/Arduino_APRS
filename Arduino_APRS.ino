@@ -1,3 +1,18 @@
+/**
+ * @file Arduino_APRS.ino
+ * @author YuYan (sakura@alleysakura.com)
+ * @brief
+ * @version 0.1
+ * @date 2022-04-24
+ *
+ * @copyright Copyright (c) 2022
+ *
+ */
+
+/**
+ * MyGPS Lib
+ * https://github.com/handiko/MyGPS
+ */
 #include <MyGPS.h>
 #include <SoftwareSerial.h>
 #include <stdlib.h>
